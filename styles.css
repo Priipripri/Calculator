@@ -1,0 +1,15 @@
+#header{
+    text-align: center;
+}
+#numbers{
+    text-align: center;
+}
+#main{
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 10px;
+   margin-top: 200px;
+   margin-right: 300px;
+   margin-left: 250px;
+   height: 300px;
+}
